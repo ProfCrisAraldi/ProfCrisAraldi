@@ -1,0 +1,3 @@
+- Olá, meu nome é Cristiane Araldi
+- Sou professora do Colégio Estadual Dom Orione
+- Leciono a disciplina de Pensamento Computacional
