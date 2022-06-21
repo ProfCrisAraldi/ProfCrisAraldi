@@ -1,3 +1,4 @@
 - Olá, meu nome é Cristiane Araldi
 - Sou professora do Colégio Estadual Dom Orione
-- Leciono a disciplina de Pensamento Computacional
+- Estou interessada em aprender novas linguagens de programação.
+- No momento, estou aprendendo Scratch e JavaScript.
