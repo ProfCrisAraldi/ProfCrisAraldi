@@ -1,6 +1,6 @@
-<\html> 
-<h1>Sobre mim
- <html>
+<html> 
+<h1>Sobre mim</h1>
+ </html>
   
 - Olá, meu nome é Cristiane Araldi.
 - Sou professora do Colégio Estadual Dom Orione.
